@@ -17,6 +17,7 @@ Tryb dzienny z pseudolosowo generowaną liczbą na podstawie obecnej daty
 Tryb losowy z losowo generowaną liczbą
 
 Instalacja i uruchomienie
+
 Wymagania wstępne
 
 .NET SDK (wersja kompatybilna z projektem, np. .NET 6 lub nowszy)
@@ -30,16 +31,20 @@ Krok po kroku
 Sklonuj repozytorium
 
 git clone https://github.com/quber0/Numberle.git
+
 cd Numberle
 
 
 Otwórz rozwiązanie w Visual Studio
+
 Otwórz Numberle.sln.
 
 Zbuduj projekt
+
 W IDE wybierz Build → Build Solution.
 
 Uruchom aplikację
+
 W Visual Studio wybierz Start lub w terminalu:
 
 UI
