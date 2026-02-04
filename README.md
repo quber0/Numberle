@@ -1,4 +1,5 @@
 Numberle - dokumentacja projektu
+
 Opis projektu
 
 Numberle to gra logiczna napisana inspirowana popularnymi grami typu Wordle, w której zamiast słów użytkownik próbuje odgadnąć ukryty numer. Projekt jest rozwijany w języku C# w technologii WPF.
