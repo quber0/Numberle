@@ -52,4 +52,4 @@ wyświetla instrukcje
 
 przyjmuje dane z klawiatury
 
-prezentuje wyniki/komentarze
+prezentuje okno dialogowe z liczbą do zgadnięcia przy zgadnięciu liczby bądź zużyciu wszystkich prób
