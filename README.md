@@ -28,24 +28,21 @@ Git (opcjonalnie, do klonowania repo)
 
 Krok po kroku
 
-Sklonuj repozytorium
+1. Sklonuj repozytorium
 
 git clone https://github.com/quber0/Numberle.git
 
 cd Numberle
 
+2. Otwórz rozwiązanie w Visual Studio
 
-Otwórz rozwiązanie w Visual Studio
+3. Otwórz Numberle.sln.
 
-Otwórz Numberle.sln.
-
-Zbuduj projekt
+4. Zbuduj projekt
 
 W IDE wybierz Build → Build Solution.
 
-Uruchom aplikację
-
-W Visual Studio wybierz Start lub w terminalu:
+5. Uruchom aplikację.
 
 UI
 
